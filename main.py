@@ -10,7 +10,8 @@ TEXT = "\n".join(
         "Somewhere down the road a dog sighs in its sleep and settles again.",
         "The laundry on the line sways a little, smelling faintly of soap and night air.",
         "Nothing is asking anything of you now.",
-        "The day has folded itself away like a letter put back in its envelope, and the hours ahead are just soft dark and the slow turning of the ceiling fan, and the small warm weight of being exactly where you are.",
+        "The day has folded itself away like a letter put back in its envelope.",
+        "The hours ahead are just soft dark and the slow turning of the ceiling fan, and the small warm weight of being exactly where you are.",
     ]
 )
 
